@@ -1,4 +1,3 @@
-<style>
 .arcontactus-widget.right.arcontactus-message{left:20px}
 .arcontactus-widget.right.arcontactus-message{bottom:50px}
 .arcontactus-widget .arcontactus-message-button
@@ -95,4 +94,3 @@
 @keyframes arcontactus-show-stat{0%,100%,20%,85%{-webkit-transform:scale(1);transform:scale(1)}21%,84%{-webkit-transform:scale(0);transform:scale(0)}}
 @-webkit-keyframes arcontactus-show-icons{0%,100%,20%,85%{-webkit-transform:scale(0);transform:scale(0)}21%,84%{-webkit-transform:scale(1);transform:scale(1)}}
 @keyframes arcontactus-show-icons{0%,100%,20%,85%{-webkit-transform:scale(0);transform:scale(0)}21%,84%{-webkit-transform:scale(1);transform:scale(1)}}
-</style>
