@@ -18,10 +18,10 @@
 	color:#fff;
 	z-index:2;
 	border-radius:0 0 3px 3px}
-.tag-name.tin_tuc{background-image: linear-gradient(-20deg, #f77062 0%, #fe5196 100%)}
-.tag-name.tools{background-image: linear-gradient(-20deg, #ff0844 0%, #ffb199 100%)}
-.tag-name.psd{background:#6633CC}
-.tag-name.template{background-image: linear-gradient(-20deg, #ff2846 0%, #6944ff 100%)}
+.tag-name.seo{background-image: linear-gradient(-20deg, #f77062 0%, #fe5196 100%)}
+.tag-name.hot_post{background-image: linear-gradient(-20deg, #ff0844 0%, #ffb199 100%)}
+.tag-name.template{background:#6633CC}
+.tag-name.trick{background-image: linear-gradient(-20deg, #ff2846 0%, #6944ff 100%)}
 .tag-name.blogger{background-color:#FF9900}
 .tag-name.facebook{background-color:#4267b2}
-.tag-name.seo{background:#48a848}
+.tag-name.psd{background:#48a848}
