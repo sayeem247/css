@@ -62,7 +62,7 @@
 .arcontactus-widget .arcontactus-prompt{color: #787878;font-family: Arial,sans-serif;font-size: 16px;line-height: 18px;width: auto;bottom: 10px;left: 80px;white-space: nowrap;padding: 18px 20px 18px;}
 .arcontactus-widget .arcontactus-prompt:before{border-right:8px solid transparent;border-top:8px solid transparent;border-left:8px solid #FFF;border-bottom:8px solid transparent;bottom:16px;right:-15px}
 .arcontactus-widget .arcontactus-prompt.active{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1)}
-.arcontactus-widget .arcontactus-prompt .arcontactus-prompt-close{position:absolute;right:6px;top:6px;cursor:pointer;z-index:100;height:14px;width:14px;padding:2px}
+.arcontactus-widget .arcontactus-prompt .arcontactus-prompt-close{position:absolute;right:8px;top:1px;cursor:pointer;z-index:100;height:14px;width:14px;padding:2px}
 .arcontactus-widget .arcontactus-prompt .arcontactus-prompt-close svg{height:10px;width:10px;display:block}
 .arcontactus-widget .arcontactus-prompt .arcontactus-prompt-typing{border-radius:10px;display:inline-block;left:3px;padding:0;position:relative;top:4px;width:50px}
 .arcontactus-widget .arcontactus-prompt .arcontactus-prompt-typing&gt;div{position:relative;float:left;border-radius:50%;width:10px;height:10px;background:#ccc;margin:0 2px;-webkit-animation:arcontactus-updown 2s infinite;animation:arcontactus-updown 2s infinite}
