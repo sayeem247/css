@@ -1,0 +1,29 @@
+<!-- label tag by itsayeem.com -->
+.tag-name{
+	border-radius: 0 20px 20px 0;
+	font: 600 15px Roboto Condensed;
+	background: #d86565;
+	color: #fff;
+	display: inline-block;
+	margin: 20px 0;
+	position: absolute;
+	padding: 5px 17px 5px 10px;}
+.label-tag{
+	font-size:22px;
+	width:170px;
+	height:42px;
+	line-height:45px;
+	position:absolute;
+	top:0;
+	box-sizing:border-box;
+	color:#fff;
+	z-index:2;
+	border-radius:0 0 3px 3px}
+.tag-name.tin_tuc{background-image: linear-gradient(-20deg, #f77062 0%, #fe5196 100%)}
+.tag-name.tools{background-image: linear-gradient(-20deg, #ff0844 0%, #ffb199 100%)}
+.tag-name.psd{background:#6633CC}
+.tag-name.template{background-image: linear-gradient(-20deg, #ff2846 0%, #6944ff 100%)}
+.tag-name.blogger{background-color:#FF9900}
+.tag-name.facebook{background-color:#4267b2}
+.tag-name.seo{background:#48a848}
+<!-- label tag by itsayeem.com -->
